@@ -4,11 +4,11 @@ using namespace std;
 
 int main() {
 	
-	//add from github
+	
 	int a, b;
 	cin >> a >> b;
 	cout << a << " , " << b<<endl;
-
+	//master branch
 	
 
 	return 0;
