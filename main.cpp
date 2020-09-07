@@ -9,11 +9,6 @@ int main() {
 	cin >> a >> b;
 	cout << a << " , " << b<<endl;
 	
-	
-	
-	
-	
-	
 	//down down master branch
 	
 
